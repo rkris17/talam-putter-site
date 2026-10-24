@@ -121,7 +121,8 @@ li {
   margin: 0.5rem 0 1.5rem;
 }
 
-.app-store {
+.app-store,
+.google-play {
   display: inline-block;
 }
 
@@ -131,28 +132,10 @@ li {
   height: auto;
 }
 
-.play-soon {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  max-width: 100%;
-}
-
-.play-soon img {
+.google-play img {
   display: block;
   height: 64px;
   width: auto;
-}
-
-.coming-soon {
-  margin: 0;
-  font-family: system-ui, -apple-system, sans-serif;
-  font-size: 0.8rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  text-align: left;
-  color: var(--muted);
 }
 
 footer {
