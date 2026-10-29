@@ -113,6 +113,16 @@ li {
   margin-bottom: 0.35rem;
 }
 
+.app-shot {
+  display: block;
+  width: 100%;
+  max-width: 16rem;
+  height: auto;
+  margin: 0 auto 1.25rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--line);
+}
+
 .store-badges {
   display: flex;
   flex-wrap: wrap;
