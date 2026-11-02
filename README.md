@@ -1,6 +1,6 @@
 # Talam Putter site
 
-Public Support, Privacy, and marketing pages for the Talam Putter iOS app.
+Public Support, Privacy, and marketing pages for the Talam Putter app for iPhone and Android.
 
 **Live site:** https://rkris17.github.io/talam-putter-site/
 
